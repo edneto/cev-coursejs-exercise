@@ -4,7 +4,7 @@ Javascript Video Course Exercises Solved
 
 ### Developers
 * [Luiz Lima] - Developer of this library and full stack web developer
-* [phpMailer] - Lib to send Email
+* [Curso em Vídeo] - Lib to send Email
 
 Modules
 ----
