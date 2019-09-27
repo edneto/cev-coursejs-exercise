@@ -3,7 +3,7 @@
 Javascript Video Course Exercises Solved
 
 ### Developers
-* [Luiz Lima] - Developer of this library and full stack web developer
+* [Luiz Lima] - Web and Mobile Developer
 * [Curso em Vídeo] - Access the course by this link
 
 Modules
