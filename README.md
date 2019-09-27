@@ -4,7 +4,7 @@ Javascript Video Course Exercises Solved
 
 ### Developers
 * [Luiz Lima] - Developer of this library and full stack web developer
-* [CursoEmVídeo] - Access the course by this link
+* [Curso em Vídeo] - Access the course by this link
 
 Modules
 ----
@@ -18,5 +18,5 @@ Modules
 
 [//]: #
 [Luiz Lima]:<mailto:focusti@hotmail.com>
-[Curso em Vídeo - Javascript]:<https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1>
+[Curso em Vídeo]:<https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1>
 
