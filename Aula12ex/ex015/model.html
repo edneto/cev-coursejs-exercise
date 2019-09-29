@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Age checker</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Verificador de Idade</h1>
+        <small>Age checker</small>
+    </header>
+    <section>
+        <div>
+            <p>Ano de nascimento(Year of birth):
+                <input type="number" name="txtyear" id="txtyear" min="0">
+            </p>
+            <p>Sex:
+                <input type="radio" name="radsex" id="mal" checked>
+                <label for="mal">Masculino(male)</label>
+                <input type="radio" name="radsex" id="fem">
+                <label for="fem">Feminino(feminine)</label>
+            </p>
+            <p>
+                <input type="button" value="Verify" onclick="verify()">
+            </p>
+        </div>
+        <div id="res">
+            Preencha os dados acima para ver o resultado!
+            (Fill in the data above to see the results.)
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Luiz Lima</p>
+
+    </footer>
+    <script src="script.js"></script>
+
+</body>
+
+</html>
